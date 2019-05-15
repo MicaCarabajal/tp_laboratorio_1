@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1557542914 source:c:\users\maria\onedrive\escritorio\tp 2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1557518477 c:\users\maria\onedrive\escritorio\tp 2\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557542827 source:c:\users\maria\onedrive\escritorio\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"input.h"
+
+1557542914 c:\users\maria\onedrive\escritorio\tp 2\arrayemployees.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+
+1557542827 source:c:\users\maria\onedrive\escritorio\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
